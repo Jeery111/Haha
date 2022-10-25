@@ -1,7 +1,7 @@
 do
-msgbox "haha"
-msgbox "heee
-msgbox" destroy mestroy
+msgbox "haha" 
+msgbox "heee" 
+msgbox "destroy mestroy" 
 
 
 
