@@ -1,3 +1,4 @@
-msgbox: "haha" 
 do
+msgbox "haha" 
+
 
