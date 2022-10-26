@@ -1,7 +1,7 @@
 do
 msgbox "haha" 
 msgbox "heee" 
-msgbox "destroy mestroy" 
+msgbox "i will destroy you computer
 
 
 
